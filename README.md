@@ -29,7 +29,7 @@ In this case, user would be a customer in a smoothie shop who gets help in choos
 - [GitHub](https://github.com/) to store and share the project code remotely. 
 
 ### Languages
-- **Javscript** - This project was completely written using Javascript.
+- **Javascript** - This project was completely written using Javascript.
 - **Markdown** - Readme file was written using Markdown.
 
 # Testing
